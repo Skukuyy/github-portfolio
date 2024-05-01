@@ -1,0 +1,108 @@
+{
+  "frontend": [
+    {
+      "id": 1,
+      "name": "HTML",
+      "image": "./tech_stack_images/frontend_stack/html.png"
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "image": "./tech_stack_images/frontend_stack/css.png"
+    },
+    {
+      "id": 3,
+      "name": "Boostrap",
+      "image": "./tech_stack_images/frontend_stack/boostrap.png"
+    },
+    {
+      "id": 4,
+      "name": "Tailwind",
+      "image": "./tech_stack_images/frontend_stack/tailwind.png"
+    },
+    {
+      "id": 5,
+      "name": "SASS",
+      "image": "./tech_stack_images/frontend_stack/sass.png"
+    },
+    {
+      "id": 6,
+      "name": "JavaScript",
+      "image": "./tech_stack_images/frontend_stack/javascript.png"
+    },
+    {
+      "id": 7,
+      "name": "React",
+      "image": "./tech_stack_images/frontend_stack/react.png"
+    },
+    {
+      "id": 8,
+      "name": "Vite",
+      "image": "./tech_stack_images/frontend_stack/vite.png"
+    },
+    {
+      "id": 9,
+      "name": "Next.JS",
+      "image": "./tech_stack_images/frontend_stack/next.js.png"
+    },
+    {
+      "id": 10,
+      "name": "Expo",
+      "image": "./tech_stack_images/frontend_stack/react-native-expo.svg"
+    }
+  ],
+  "backend": [
+    {
+      "id": 1,
+      "name": "Node.JS",
+      "image": "./tech_stack_images/backend_stack/Node-JS.png"
+    },
+    {
+      "id": 2,
+      "name": "Express.JS",
+      "image": "./tech_stack_images/backend_stack/Express-JS.png"
+    },
+    {
+      "id": 3,
+      "name": "Firebase",
+      "image": "./tech_stack_images/backend_stack/Firebase.png"
+    },
+    {
+      "id": 4,
+      "name": "MongoDB",
+      "image": "./tech_stack_images/backend_stack/Mongo-db.png"
+    },
+    {
+      "id": 5,
+      "name": "Socket.io",
+      "image": "./tech_stack_images/backend_stack/Socket-io.png"
+    },
+    {
+      "id": 6,
+      "name": "MySQL",
+      "image": "./tech_stack_images/backend_stack/Mysql.png"
+    },
+    {
+      "id": 7,
+      "name": "Python",
+      "image": "./tech_stack_images/backend_stack/Python.png"
+    },
+    {
+      "id": 8,
+      "name": "PHP",
+      "image": "./tech_stack_images/backend_stack/php.png"
+    }
+  ],
+  "extra": [
+    {
+      "id": 1,
+      "name": "Git",
+      "image": "./tech_stack_images/extra_stack/git.png"
+    },
+    {
+      "id": 1,
+      "name": "Git",
+      "image": "./tech_stack_images/extra_stack/github.png"
+    }
+  ]
+}

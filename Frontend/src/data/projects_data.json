@@ -1,0 +1,40 @@
+{
+  "project": [
+    {
+      "id": 1,
+      "image": "./project_thumbnails/coffe_webpage.png",
+      "name": "Coffe Shop",
+      "description": "Ecommerce built with ReactJS, SCSS and NodeJS",
+      "showDemo": true,
+      "linkDemo": "link",
+      "githubLink": "https://github.com/Skukuyy/Coffe-Shop-Website"
+    },
+    {
+      "id": 2,
+      "image": "./project_thumbnails/pomodoro_timer.png",
+      "name": "Pomodoro Timer",
+      "description": "Timer built with Python, using Tkinter Library",
+      "showDemo": false,
+      "linkDemo": "link",
+      "githubLink": "https://github.com/Skukuyy/Pomodoro-Timer"
+    },
+    {
+      "id": 3,
+      "image": "./project_thumbnails/chat_webpage.png",
+      "name": "Chat Webpage",
+      "description": "Chat built with React.JS and Socket.IO",
+      "showDemo": false,
+      "linkDemo": "link",
+      "githubLink": "https://github.com/Skukuyy/Chat-page"
+    },
+    {
+      "id": 4,
+      "image": "./project_thumbnails/mobile_app.png",
+      "name": "Mobile App",
+      "description": "Mobile CRUD built with React Native Expo and Firebase",
+      "showDemo": false,
+      "linkDemo": "link",
+      "githubLink": "https://github.com/Stray225/loginAlephh"
+    }
+  ]
+}

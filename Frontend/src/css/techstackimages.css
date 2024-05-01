@@ -1,0 +1,13 @@
+.image-and-name {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+
+  .tech-stack-image {
+    width: 45px;
+    height: 45px;
+    object-fit: contain;
+    image-rendering: auto;
+  }
+}

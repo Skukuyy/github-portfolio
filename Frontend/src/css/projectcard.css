@@ -1,0 +1,87 @@
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.card {
+  width: 216px;
+  overflow: hidden;
+  border-radius: 8px;
+  border: 1px solid var(--secondary);
+  margin: 20px;
+  background: var(--tertiary);
+}
+.card .card-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  image-rendering: auto;
+}
+.card-content{
+padding: 10px;
+}
+
+.card-content .title-project {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: var(--secondary);
+}
+.card-content .description-project {
+  font-size: 12px;
+  line-height: 15.3px;
+  margin-bottom: 10px;
+  color: white;
+}
+.card-content .btn-github {
+  display: flex;
+  align-items: center;
+  padding: 8px 16px;
+  text-decoration: none;
+  border-radius: 4px;
+  margin-top: 16px;
+  background: none;
+  color: var(--secondary);
+  border: none;
+  outline: 2px solid var(--secondary);
+  gap: 5px;
+
+}
+
+.card-content .btn-github:hover {
+  background: var(--secondary);
+  color: white;
+}
+.card-content .btn-demo {
+  display: inline-block;
+  padding: 8px 16px;
+  text-decoration: none;
+  border-radius: 4px;
+  margin-top: 16px;
+  border: none;
+  color: white;
+  background: var(--secondary);
+  gap: 5px;
+
+}
+
+.card-content .btn-demo:hover {
+  background: #8f0d7f;
+}
+
+.buttons-container{
+  display:flex;
+  gap: 20px;
+  margin-bottom: 8px;
+}
+
+.link{
+  text-decoration: none;
+  color: var(--secondary);
+}
+.link:hover{
+  text-decoration: none;
+  color: white;
+}
+.link:visited{
+  color:inherit
+}
